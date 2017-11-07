@@ -1,7 +1,11 @@
 ## 启动
 首先需要安装 node  安装完 node 会自带包管理工具 npm
 ```
-npm install
+npm install  
+# 或者
+yarn install
+
+
 
 ## 打开开发环境
 npm run dev
